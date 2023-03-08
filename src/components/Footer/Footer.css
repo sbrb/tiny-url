@@ -1,0 +1,48 @@
+.footer {
+    background-color: #1f5456;
+    height: 18.6vh;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.footer h3 {
+    padding-top: 1rem;
+    margin-bottom: -1rem;
+    transition: transform 0.5s;
+}
+
+.footer h3:hover {
+    transform: scale(1.1);
+    color: red;
+}
+
+.footer p {
+    padding-top: .5rem;
+    margin-bottom: -1rem;
+    transition: transform 0.5s;
+}
+
+.footer p:hover {
+    transform: scale(1.1x);
+    color: red;
+}
+
+.footer h5 {
+    margin-bottom: -1rem;
+    transition: transform 0.5s;
+}
+
+.footer h5:hover {
+    transform: scale(1.1);
+    color: red;
+}
+
+.footer h6 {
+    transition: transform 0.5s;
+}
+
+.footer h6:hover {
+    transform: scale(1.1);
+    color: red;
+}
